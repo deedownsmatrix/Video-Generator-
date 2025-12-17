@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Presentation Studio",
+  "description": "Convert PDF notebooks into professional video presentations using Gemini 3 Pro reasoning, Studio-quality TTS, and dynamic slide animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
